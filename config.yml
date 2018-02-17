@@ -18,7 +18,6 @@ dotfiles_files:
 
 homebrew_installed_packages:
   - awscli
-  # - ansible # Installed via Pip.
   - bash-completion
   - git
   - go
@@ -50,18 +49,8 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - docker
   - dropbox
-  # - fing # Download link keeps getting changed, d'oh!
-  # - firefox
-  # - google-chrome
-  #- handbrake
-  #- licecap
-  #- limechat
-  #- macvim
-  #- sequel-pro
-  #- skitch
   - slack
   - sublime-text
-  #- transmit
   - vagrant
   - virtualbox
 
